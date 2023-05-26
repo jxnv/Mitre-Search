@@ -30,6 +30,3 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 License
 This project is licensed under the MIT License.
-
-
-Feel free to customize and modify the README as per your requirements.
